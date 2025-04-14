@@ -1,7 +1,6 @@
 ## Install
 
 ### Dependencies
-To run Tilt Open you'll need the following prerequisites installed:
 
 * [Homebrew](http://brew.sh/) (for downloading software packages)
 
